@@ -1,0 +1,10 @@
+{
+	"name": "jquery-scrollparent",
+	"description": "Standalone repo for jQuery UI's `scrollParent` method",
+	"repository": "https://github.com/slindberg/jquery-scrollparent",
+	"version": "0.1.3",
+	"main": "./jquery.scrollparent.js",
+	"scripts": {},
+	"license": "MIT",
+	"dependencies": {}
+}
